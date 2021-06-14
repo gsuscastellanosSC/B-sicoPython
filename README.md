@@ -37,6 +37,10 @@
         Números de punto flotante
         Texto(cadenas de caracteres)
         Bolenanos(True or false)
+# Class#11
+    Convertir un dato a un tipo diferente
+       int = int(String)
+       str = str(int)
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
