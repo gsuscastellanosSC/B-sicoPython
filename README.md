@@ -73,6 +73,8 @@
     Proyecto: palíndromo
 # Class#21    
     Aprendiendo bucles
+# Class#22
+    El ciclo while
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
