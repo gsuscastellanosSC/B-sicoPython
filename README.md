@@ -4,3 +4,5 @@
     El arte de la programación
 # Class#2
     ¿Por qué Python?
+# Class#3
+    El núcleo de un programa: los algoritmos
