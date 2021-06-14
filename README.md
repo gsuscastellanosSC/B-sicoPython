@@ -49,6 +49,8 @@
     Tu primer programa: conversor de monedas
 # Class#14
     Construyendo el camino de un programa con condicionales
+# Class#15    
+    Varios países en mi conversor de monedas
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
