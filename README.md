@@ -45,6 +45,8 @@
     Operadores lógicos y de comparación
        lógicos: and, or, not(negation)
        comparación: ==, !=, >=, <=
+# Class#13
+    Tu primer programa: conversor de monedas
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
