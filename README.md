@@ -87,6 +87,8 @@
     Proyecto: videojuego
 # Class#28
     Almacenar varios valores en una variable: listas
+# Class#29
+    Entendiendo cómo funcionan las tuplas
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
