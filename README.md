@@ -63,6 +63,12 @@
         Trasforma a minusculas todo: name.lower()
         Remplaza: name.replace('ú', 'u')
         Longitud: len(name)
+# Class#19
+    Trabajando con texto: slices
+    name[indiceInicial:indiceFinal]
+    name[indiceInicial:indiceFinal:cantidadDePasos(si es -, arranca desde el final)]
+    name[:::]
+    name[indiceInicial::cantidadDePasos]
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
