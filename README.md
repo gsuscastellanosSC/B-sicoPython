@@ -20,6 +20,14 @@
     Ctrl+l = Clear
     ls = list
     mkdir = make subdirectory
+# Class#8
+    Suma: print(a + c)
+    Resta: print(a - c)
+    Múltiplicación: print(a * c)
+    División: print(a / c)
+    División Entera: print(a // c)
+    Módulo: print(a % c)
+    Potencias: print(a ** b)  
 # Links
     Python:
         https://www.python.org/
