@@ -47,6 +47,8 @@
        comparación: ==, !=, >=, <=
 # Class#13
     Tu primer programa: conversor de monedas
+# Class#14
+    Construyendo el camino de un programa con condicionales
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
