@@ -77,6 +77,8 @@
     El ciclo while
 # Class#23
     Explorando un bucle diferente: el ciclo for
+# Class#24    
+    Recorriendo un string con for
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
