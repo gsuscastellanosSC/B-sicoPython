@@ -10,6 +10,11 @@
     Instalación de nuestras herramientas
 # Class#5
     Instalación de nuestras herramientas en Mac
+# Class#6
+    Instalación de nuestras herramientas en Ubuntu
+        sudo apt update
+        sudo apt install python3-pip
+        python3 -V
 # Links
     Python:        
         https://www.python.org/
