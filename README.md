@@ -70,7 +70,9 @@
     name[:::]
     name[indiceInicial::cantidadDePasos]
 # Class#20
-    Proyecto: palíndromo 
+    Proyecto: palíndromo
+# Class#21    
+    Aprendiendo bucles
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
