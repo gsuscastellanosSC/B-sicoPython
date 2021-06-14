@@ -69,6 +69,8 @@
     name[indiceInicial:indiceFinal:cantidadDePasos(si es -, arranca desde el final)]
     name[:::]
     name[indiceInicial::cantidadDePasos]
+# Class#20
+    Proyecto: palíndromo 
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
