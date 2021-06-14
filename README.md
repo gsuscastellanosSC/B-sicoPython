@@ -6,3 +6,10 @@
     ¿Por qué Python?
 # Class#3
     El núcleo de un programa: los algoritmos
+# Class#4
+    Instalación de nuestras herramientas
+# Links
+    Python:        
+        https://www.python.org/
+    cmder:
+        https://cmder.net/
