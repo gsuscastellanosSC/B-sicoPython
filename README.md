@@ -1,2 +1,4 @@
-# B-sicoPython
-https://platzi.com/clases/python/
+# Python Basico
+    https://platzi.com/clases/python/
+# Class#1
+    El arte de la programación
