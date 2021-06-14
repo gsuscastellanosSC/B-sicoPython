@@ -8,6 +8,8 @@
     El núcleo de un programa: los algoritmos
 # Class#4
     Instalación de nuestras herramientas
+# Class#5
+    Instalación de nuestras herramientas en Mac
 # Links
     Python:        
         https://www.python.org/
