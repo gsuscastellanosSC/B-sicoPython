@@ -53,8 +53,16 @@
     Varios países en mi conversor de monedas
 # Class#16
     Aprendiendo a no repetir código con funciones
-# Class#17    
+# Class#17
     Modularizando nuestro conversor de monedas
+# Class#18
+    Trabajando con texto: cadenas de caracteres(funciones build int)
+        Trasforma a mayusculas todo: name.upper()
+        Trasforma a mayusculas las primeras letras: name.capitalize()
+        Limpia espacios en blanco: name.strip()
+        Trasforma a minusculas todo: name.lower()
+        Remplaza: name.replace('ú', 'u')
+        Longitud: len(name)
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
