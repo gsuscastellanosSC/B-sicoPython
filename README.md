@@ -41,6 +41,10 @@
     Convertir un dato a un tipo diferente
        int = int(String)
        str = str(int)
+# Class#12
+    Operadores lógicos y de comparación
+       lógicos: and, or, not(negation)
+       comparación: ==, !=, >=, <=
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
