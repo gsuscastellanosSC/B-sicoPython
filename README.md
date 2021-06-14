@@ -27,8 +27,13 @@
     División: print(a / c)
     División Entera: print(a // c)
     Módulo: print(a % c)
-    Potencias: print(a ** b)  
+    Potencias: print(a ** b)
+# Class#9
+   ¿Qué es una variable? 
+    var = valueOfTheVar
 # Links
+    python_ref_keywords:
+        https://www.w3schools.com/python/python_ref_keywords.asp
     Python:
         https://www.python.org/
     cmder:
