@@ -89,6 +89,8 @@
     Almacenar varios valores en una variable: listas
 # Class#29
     Entendiendo cómo funcionan las tuplas
+# Class#30
+    ¿Qué son los diccionarios?
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
