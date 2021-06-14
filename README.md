@@ -83,6 +83,8 @@
     Interrumpiendo ciclos con break y continue
 # Class#26
     Proyecto: prueba de primalidad
+# Class#27    
+    Proyecto: videojuego
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
