@@ -31,6 +31,12 @@
 # Class#9
    ¿Qué es una variable? 
     var = valueOfTheVar
+# Class#10
+    Los primitivos: tipos de datos sencillos
+        Números enteros
+        Números de punto flotante
+        Texto(cadenas de caracteres)
+        Bolenanos(True or false)
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
