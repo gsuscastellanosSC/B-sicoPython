@@ -83,8 +83,10 @@
     Interrumpiendo ciclos con break y continue
 # Class#26
     Proyecto: prueba de primalidad
-# Class#27    
+# Class#27
     Proyecto: videojuego
+# Class#28
+    Almacenar varios valores en una variable: listas
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
