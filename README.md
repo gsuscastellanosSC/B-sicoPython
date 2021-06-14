@@ -93,6 +93,8 @@
     ¿Qué son los diccionarios?
 # Class#31
     Proyecto: generador de contraseñas
+# Class#32
+    Sigue aprendiendo
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
