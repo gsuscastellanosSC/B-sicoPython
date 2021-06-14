@@ -49,8 +49,10 @@
     Tu primer programa: conversor de monedas
 # Class#14
     Construyendo el camino de un programa con condicionales
-# Class#15    
+# Class#15
     Varios países en mi conversor de monedas
+# Class#16    
+    Aprendiendo a no repetir código con funciones
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
