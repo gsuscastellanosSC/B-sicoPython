@@ -81,6 +81,8 @@
     Recorriendo un string con for
 # Class#25
     Interrumpiendo ciclos con break y continue
+# Class#26
+    Proyecto: prueba de primalidad
 # Links
     python_ref_keywords:
         https://www.w3schools.com/python/python_ref_keywords.asp
