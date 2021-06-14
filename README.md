@@ -15,8 +15,13 @@
         sudo apt update
         sudo apt install python3-pip
         python3 -V
+# Class#7
+    Tu mejor herramienta: la consola
+    Ctrl+l = Clear
+    ls = list
+    mkdir = make subdirectory
 # Links
-    Python:        
+    Python:
         https://www.python.org/
     cmder:
         https://cmder.net/
